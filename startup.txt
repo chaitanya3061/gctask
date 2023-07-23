@@ -1,6 +1,5 @@
 for frontend  to run:
 cd '.\bookstore-app\'
-cd bookstore-app
 npm start
 
 server :-http://localhost:3001/
